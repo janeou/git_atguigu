@@ -1,0 +1,4 @@
+1.查看历史记录：
+  git log --pretty=oneline
+  git log --oneline
+  git reflog
